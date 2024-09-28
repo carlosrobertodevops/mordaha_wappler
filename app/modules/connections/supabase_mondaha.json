@@ -1,5 +1,5 @@
 {
-  "name": "ep_mondaha",
+  "name": "supabase_mondaha",
   "module": "dbconnector",
   "action": "connect",
   "options": {
@@ -13,5 +13,7 @@
     },
     "tz": "utc"
   },
-  "fileName": "ep_mondaha.json"
+  "fileName": "supabase_mondaha.json",
+  "actionFilePath": "file:///D:/Projetos/wappler/mondaha/app/modules/connections/ep_mondaha.json",
+  "serverType": "node"
 }

@@ -1,0 +1,19 @@
+{
+  "name": "ep_postgres_mondaha",
+  "module": "dbconnector",
+  "action": "connect",
+  "options": {
+    "client": "postgres",
+    "connection": {
+      "host": "6bxtpq.easypanel.host/backends/postgres",
+      "port": 5433,
+      "user": "postgres",
+      "password": "5599a1c984c13f48d643",
+      "database": "postgres"
+    },
+    "tz": "utc"
+  },
+  "fileName": "ep_postgres_mondaha.json",
+  "actionFilePath": "file:///D:/Projetos/wappler/mondaha/app/modules/connections/eyp_postgres.json",
+  "serverType": "node"
+}
