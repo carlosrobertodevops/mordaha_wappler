@@ -1,0 +1,17 @@
+{
+  "name": "ep_mondaha",
+  "module": "dbconnector",
+  "action": "connect",
+  "options": {
+    "client": "postgres",
+    "connection": {
+      "host": "postgres://postgres:5599a1c984c13f48d643@easypanel.geniuscodemy.com.br:5433",
+      "port": 5433,
+      "user": "postgres",
+      "password": "5599a1c984c13f48d643",
+      "database": "mondaha"
+    },
+    "tz": "utc"
+  },
+  "fileName": "ep_mondaha.json"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "postgres",
+  "connection": {
+    "host": "postgres://postgres:5599a1c984c13f48d643@easypanel.geniuscodemy.com.br/backends/postgres",
+    "port": 5433,
+    "user": "postgres",
+    "password": "5599a1c984c13f48d643",
+    "database": "mondaha"
+  },
+  "direct": true,
+  "schema": {
+    "tables": {},
+    "views": {}
+  },
+  "case": "snake",
+  "primaryKeyType": "increments"
+}
